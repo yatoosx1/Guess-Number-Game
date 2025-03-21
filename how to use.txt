@@ -1,0 +1,9 @@
+pip install pygame
+
+
+
+Description:
+Number Selection: The computer randomly picks a number between 1 and 100.
+Right to Guess: The user has 10 chances to guess.
+Guess: The user guesses one number at a time. The computer tells whether the guess is correct and indicates whether the number is big or small.
+Game End: The game ends when all 10 chances are over or when the user guesses the correct number.
